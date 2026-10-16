@@ -1,0 +1,1 @@
+{"name":"flip-rush-neon-arcade","version":"1.0.0","private":true,"description":"FLIP RUSH mobile-first arcade PWA","scripts":{"serve":"npx http-server . -p 8080"}}
