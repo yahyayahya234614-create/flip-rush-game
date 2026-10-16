@@ -1,1 +1,13 @@
 
+FLIP RUSH - Android Wrapper
+
+This folder documents the Android packaging process.
+
+The Android application has not been generated yet.
+
+Next steps:
+1. Test the web game on a mobile browser.
+2. Create a Capacitor Android project.
+3. Configure the app name and package ID.
+4. Build and test the Android app.
+5. Generate a signed Android App Bundle (AAB) for Google Play.
